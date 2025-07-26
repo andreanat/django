@@ -33,7 +33,7 @@ From there, you’ll see the homepage and can navigate to the project detail pag
 ## Video Demo
 
 Watch the walkthrough and explanation video here:  
-👉 [LINK TO VIDEO GOES HERE] 👈  
+👉 https://www.loom.com/share/5febaa1526b841988ba6c19681c9dbd1?sid=f37b5f86-5c7c-4b54-8410-6c0f6a840048 👈  
 (This includes both a screen share and my explanation of the code and app functionality.)
 
 ## Author
